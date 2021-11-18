@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Philip Maurice Empl, M.Sc.
+title: Philip Maurice Empl
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: M.Sc. in Management Information Systems
+  - course: M.Sc. Management Information Systems
     institution: University of Regensburg
     year: 2020
-  - course: B.Sc. in Management Information Systems
+  - course: B.Sc. Management Information Systems
     institution: University of Regensburg
     year: 2017
 
@@ -40,9 +40,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: building
-  icon_pack: fab
-  link: https://go.ur.de/empl
+
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Philip-Empl
