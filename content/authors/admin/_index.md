@@ -40,7 +40,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: home
+- icon: building
   icon_pack: fab
   link: https://go.ur.de/empl
 - icon: researchgate
@@ -76,5 +76,3 @@ highlight_name: true
 Philip Empl received the master’s degree in management information systems from the University of Regensburg in 2020. He is currently pursuing the Ph.D. degree with the Chair of Information Systems, University of Regensburg, Germany. Since 2020, he has also been a Research Assistant with the Chair of Information Systems, University of Regensburg, Germany. There he is involved in a research project funded by the Federal Ministry for Economic Affairs and Energy (BMWi).
 
 His research interests include the field of Internet of Things Security. His primary focus is the Digital Twin as an instrument to enhance cybersecurity in Industrial IoT environments. In concrete applications, digital twins can be used, for example, to train employees, orchestrate security mechanisms, or perform security analyses.
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

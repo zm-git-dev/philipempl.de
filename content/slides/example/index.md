@@ -145,7 +145,7 @@ Customize the slide style and background
 
 ## Custom CSS Example
 
-Let's make headers navy colored.
+Let's make headers #aea700 colored.
 
 Create `assets/css/reveal_custom.css` with:
 
@@ -153,7 +153,7 @@ Create `assets/css/reveal_custom.css` with:
 .reveal section h1,
 .reveal section h2,
 .reveal section h3 {
-  color: navy;
+  color: #aea700;
 }
 ```
 
