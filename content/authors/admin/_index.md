@@ -11,7 +11,7 @@ role: Cybersecurity Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: @ University of Regensburg
-  url: https://www.uni-regensburg.de/
+  url: https://www.uni-regensburg.de/wirtschaftswissenschaften/wi-pernul/startseite/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
