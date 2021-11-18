@@ -1,0 +1,6 @@
+name = "Lärchennadel Grün"
+
+# Is theme light or dark?
+light = true
+
+primary = "#aea700"
