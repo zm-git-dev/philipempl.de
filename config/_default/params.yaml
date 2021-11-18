@@ -21,9 +21,9 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: mail@philipempl.de
-phone: 
+phone:
 address:
-  street: 
+  street:
   city: Regensburg
   region: Bavaria
   postcode: '94305'
@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: '49.013432'
   longitude: '12.101624'
-directions: 
+directions:
 office_hours:
   - ''
   - ''
@@ -89,6 +89,7 @@ edit_page:
     post: false
     book: false
 show_related:
+  home: false
   book: true
   page: false
   post: true
