@@ -8,7 +8,7 @@
 theme: laerchennadelgruen
 day_night: false
 font: ''
-font_size: S
+font_size: L
 
 # SEO
 
@@ -26,7 +26,7 @@ address:
   street:
   city: Regensburg
   region: Bavaria
-  postcode: '94305'
+  postcode: '94051'
   country: Germany
   country_code: DE
 coordinates:
