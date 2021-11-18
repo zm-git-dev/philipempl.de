@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Philip Maurice Empl, M.Sc.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Cybersecurity Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Regensburg
+  url: https://www.uni-regensburg.de/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Digital Twin
+- (Industrial) Internet of Things
+- Security Analytics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Sc. in Management Information Systems
+    institution: University of Regensburg
+    year: 2020
+  - course: B.Sc. in Management Information Systems
+    institution: University of Regensburg
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,21 +40,27 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
+- icon: home
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  link: https://go.ur.de/empl
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Philip-Empl
+- icon: google-scholar
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.de/citations?user=Lu-BjV4AAAAJ&hl=de&oi=ao
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-7616-5931
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/philipempl
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://de.linkedin.com/in/philip-empl-4424a41b6
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -70,8 +73,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Philip Empl received the master’s degree in management information systems from the University of Regensburg in 2020. He is currently pursuing the Ph.D. degree with the Chair of Information Systems, University of Regensburg, Germany. Since 2020, he has also been a Research Assistant with the Chair of Information Systems, University of Regensburg, Germany. There he is involved in a research project funded by the Federal Ministry for Economic Affairs and Energy (BMWi).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research interests include the field of Internet of Things Security. His primary focus is the Digital Twin as an instrument to enhance cybersecurity in Industrial IoT environments. In concrete applications, digital twins can be used, for example, to train employees, orchestrate security mechanisms, or perform security analyses.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
