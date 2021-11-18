@@ -40,7 +40,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Philip-Empl
