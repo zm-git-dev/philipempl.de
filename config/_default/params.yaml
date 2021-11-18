@@ -26,7 +26,7 @@ address:
   street:
   city: Regensburg
   region: Bavaria
-  postcode: '94051'
+  postcode: '93051'
   country: Germany
   country_code: DE
 coordinates:
@@ -42,18 +42,6 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -62,7 +50,7 @@ main_menu:
   align: l
   show_logo: true
   show_language: false
-  show_day_night: true
+  show_day_night: false
   show_search: false
   highlight_active_link: true
 
