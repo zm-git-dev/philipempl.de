@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Philip Empl, M.Sc. # Website name
+title: Philip Empl # Website name
 baseurl: 'https://www.philipemplde.de/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
