@@ -44,7 +44,7 @@ social:
   icon_pack: fab
   link: https://www.researchgate.net/profile/Philip-Empl
 - icon: google-scholar
-  icon_pack: fas
+  icon_pack: ai
   link: https://scholar.google.de/citations?user=Lu-BjV4AAAAJ&hl=de&oi=ao
 - icon: orcid
   icon_pack: fab
