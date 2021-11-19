@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 130
 
 active: true
 
@@ -25,7 +25,7 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
 design:
   columns: '2'
