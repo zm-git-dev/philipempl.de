@@ -10,7 +10,7 @@ role: Cybersecurity Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Regensburg
+- name: Department of Information Systems
   url: https://www.uni-regensburg.de/wirtschaftswissenschaften/wi-pernul/startseite/index.html
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,10 +50,10 @@ social:
   icon_pack: ai
   link: https://orcid.org/0000-0002-7616-5931
 - icon: github
-  icon_pack: fas
+  icon_pack: fab
   link: https://github.com/philipempl
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: fab
   link: https://de.linkedin.com/in/philip-empl-4424a41b6
 
 # Link to a PDF of your resume/CV.
