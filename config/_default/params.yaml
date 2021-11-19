@@ -15,27 +15,27 @@ font_size: S
 site_type: Person
 local_business_type: ''
 org_name: 'Philip Empl'
-description: 'Philip Empl is a cybersecurity researcher focusing on digital twins and their application from a cybersecurity perspective.'
+description: 'Philip Empl is a cybersecurity researcher focusing on digital twins and their application for cybersecurity scenarios.'
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: mail@philipempl.de
-phone:
-address:
-  street:
-  city: Regensburg
-  region: Bavaria
-  postcode: '93051'
-  country: Germany
-  country_code: DE
+#email: mail@philipempl.de
+#phone:
+#address:
+#  street:
+#  city: Regensburg
+#  region: Bavaria
+#  postcode: '93051'
+#  country: Germany
+#  country_code: DE
 coordinates:
   latitude: '49.013432'
   longitude: '12.101624'
 directions:
-office_hours:
-  - ''
-  - ''
+#office_hours:
+#  - ''
+#  - ''
 appointment_url: ''
 contact_links:
   - icon: twitter
