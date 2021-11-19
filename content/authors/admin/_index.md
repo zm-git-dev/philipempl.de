@@ -38,7 +38,7 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: ai
+  icon_pack: fas
   link: '/#contact'
 - icon: researchgate
   icon_pack: ai
@@ -50,10 +50,10 @@ social:
   icon_pack: ai
   link: https://orcid.org/0000-0002-7616-5931
 - icon: github
-  icon_pack: ai
+  icon_pack: fas
   link: https://github.com/philipempl
 - icon: linkedin
-  icon_pack: ai
+  icon_pack: fas
   link: https://de.linkedin.com/in/philip-empl-4424a41b6
 
 # Link to a PDF of your resume/CV.
