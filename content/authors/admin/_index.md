@@ -38,22 +38,22 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: fas
+  icon_pack: ai
   link: '/#contact'
 - icon: researchgate
-  icon_pack: fab
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Philip-Empl
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?user=Lu-BjV4AAAAJ&hl=de&oi=ao
 - icon: orcid
-  icon_pack: fab
+  icon_pack: ai
   link: https://orcid.org/0000-0002-7616-5931
 - icon: github
-  icon_pack: fab
+  icon_pack: ai
   link: https://github.com/philipempl
 - icon: linkedin
-  icon_pack: fab
+  icon_pack: ai
   link: https://de.linkedin.com/in/philip-empl-4424a41b6
 
 # Link to a PDF of your resume/CV.
