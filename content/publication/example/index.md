@@ -36,7 +36,7 @@ abstract: Digital Twins are complex digital representations of assets that are u
 # Summary. An optional shortened abstract.
 summary:
 
-tags: [Digital Twin, Distributed Ledger, Cybersecurity]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
